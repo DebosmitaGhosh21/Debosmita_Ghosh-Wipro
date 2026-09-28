@@ -1,0 +1,3 @@
+Course 1: "https://coursera.org/share/600d301df1b546ba5c0af1b42e1bf583"
+Course 2: "https://coursera.org/share/ec66f809d6185314d06809ccdf0d7420"
+Course 3: "https://coursera.org/share/1416609e58d4bb7a2000e5cf6fb7afff"
